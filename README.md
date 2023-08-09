@@ -19,6 +19,9 @@
 
 - 📄 Know about my experiences [https://awd.my.id/](https://awd.my.id/)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +29,7 @@
 <a href="https://twitter.com/putuwahyu29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="putuwahyu29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iputuaguswahyud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iputuaguswahyud" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16510653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16510653" height="30" width="40" /></a>
+<a href="https://kaggle.com/iputuaguswahyud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iputuaguswahyud" height="30" width="40" /></a>
 <a href="https://fb.com/putuwahyu29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="putuwahyu29" height="30" width="40" /></a>
 <a href="https://instagram.com/aguswahyu29_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aguswahyu29_" height="30" width="40" /></a>
 <a href="https://medium.com/@aguswahyu29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aguswahyu29" height="30" width="40" /></a>
