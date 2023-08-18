@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/putuwahyu29](https://github.com/putuwahyu29)
 
-- 📝 I regularly write articles on [https://site.awd.my.id/blog](https://site.awd.my.id/blog)
+- 📝 I regularly write articles on [https://awd.my.id/blog](https://awd.my.id/blog)
 
 - 💬 Ask me about **Laravel, Codeigniter**
 
