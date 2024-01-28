@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Enginer and Software Developer
 -----------------------------------
 
+<a href="https://github.com/putuwahyu29"><img src="https://github-profile-trophy.vercel.app/?username=putuwahyu29&theme=dracula" alt="putuwahyu29" /></a>
+
 I am a student of Information Systems at one of the universities in Indonesia. I have an interest and expertise in the field of system development and data processing. Currently, I am focusing on and delving into the field of DevOps, which is a combination of software development and system operations. I am interested in learning how to integrate the software development process with system operations to achieve better efficiency and reliability in application development. I hope to continue developing my skills and knowledge in this field to become a competent professional in the information technology industry.
 
 * 🌍  I'm based in Indonesian
