@@ -79,3 +79,7 @@
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=putuwahyu29&theme=dracula"/>
 <img src="https://raw.githubusercontent.com/putuwahyu29/putuwahyu29/output/snake.svg" alt="Snake animation" />
+
+<h2 align="left">Blog Posts:</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
