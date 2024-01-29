@@ -12,11 +12,15 @@
 - 📝 I regularly write articles on **blog.awd.my.id**
 - 📄 Know about my experiences **awd.my.id/resume**
 
-<div> <a href="https://twitter.com/aguswahyu" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/aguswahyu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/putuwahyu29" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:aguswahyu@awd.my.id"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+<h3 align="left">Latest Blog Posts:</h3>
+
+<!-- BLOG-POST-LIST:START -->
+- [Koneksikan Basis Data MongoDB dengan Laravel](https://blog.awd.my.id/posts/koneksikan-basis-data-mongodb-dengan-laravel)
+- [Apa itu Unified Modeling Language](https://blog.awd.my.id/posts/apa-itu-unified-modeling-language)
+- [Apa itu Business Process Model and Notation](https://blog.awd.my.id/posts/apa-itu-business-process-model-and-notation)
+- [Apa itu Data Flow Diagram](https://blog.awd.my.id/posts/apa-itu-data-flow-diagram)
+- [Mengontrol Home Server dengan Bardi Smart Plug](https://blog.awd.my.id/posts/mengontrol-home-server-dengan-bardi-smart-plug)
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -79,13 +83,3 @@
 <h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=putuwahyu29&theme=dracula"/>
 <img src="https://raw.githubusercontent.com/putuwahyu29/putuwahyu29/output/snake.svg" alt="Snake animation" />
-
-<h2 align="left">Blog Posts:</h2>
-
-<!-- BLOG-POST-LIST:START -->
-- [Koneksikan Basis Data MongoDB dengan Laravel](https://blog.awd.my.id/posts/koneksikan-basis-data-mongodb-dengan-laravel)
-- [Apa itu Unified Modeling Language](https://blog.awd.my.id/posts/apa-itu-unified-modeling-language)
-- [Apa itu Business Process Model and Notation](https://blog.awd.my.id/posts/apa-itu-business-process-model-and-notation)
-- [Apa itu Data Flow Diagram](https://blog.awd.my.id/posts/apa-itu-data-flow-diagram)
-- [Mengontrol Home Server dengan Bardi Smart Plug](https://blog.awd.my.id/posts/mengontrol-home-server-dengan-bardi-smart-plug)
-<!-- BLOG-POST-LIST:END -->
