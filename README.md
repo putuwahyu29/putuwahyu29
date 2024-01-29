@@ -15,11 +15,11 @@
 <h3 align="left">Latest Blog Posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Logging dengan Notifikasi Slack](https://blog.awd.my.id/posts/laravel-logging-dengan-notifikasi-slack)
 - [Koneksikan Basis Data MongoDB dengan Laravel](https://blog.awd.my.id/posts/koneksikan-basis-data-mongodb-dengan-laravel)
 - [Apa itu Unified Modeling Language](https://blog.awd.my.id/posts/apa-itu-unified-modeling-language)
 - [Apa itu Business Process Model and Notation](https://blog.awd.my.id/posts/apa-itu-business-process-model-and-notation)
 - [Apa itu Data Flow Diagram](https://blog.awd.my.id/posts/apa-itu-data-flow-diagram)
-- [Mengontrol Home Server dengan Bardi Smart Plug](https://blog.awd.my.id/posts/mengontrol-home-server-dengan-bardi-smart-plug)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
