@@ -80,7 +80,8 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=putuwahyu29&theme=dracula"/>
 <img src="https://raw.githubusercontent.com/putuwahyu29/putuwahyu29/output/snake.svg" alt="Snake animation" />
 
-<h2 align="left">Blog Posts:</h3>
+<h2 align="left">Blog Posts:</h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [Koneksikan Basis Data MongoDB dengan Laravel](https://blog.awd.my.id/posts/koneksikan-basis-data-mongodb-dengan-laravel)
 - [Apa itu Unified Modeling Language](https://blog.awd.my.id/posts/apa-itu-unified-modeling-language)
