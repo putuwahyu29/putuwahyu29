@@ -2,10 +2,8 @@
 <h1 align="center">Hi 👋, I'm Putu Agus Wahyu Dupayana</h1>
 <h3 align="center">Data Enginer & Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=putuwahyu29&theme=dracula" alt="putuwahyu29" /></a> </p>
-
-- 🔭 I’m currently working on [Awd Artikel](https://github.com/putuwahyu29/awd-artikel)
-- 🌱 I’m currently learning **DevOps**
+- 🔭 I’m currently working on [Statistics of Jawa Timur Province](https://jatim.bps.go.id/en)
+- 🌱 I’m currently learning **DevOps & AI**
 - 💬 Ask me about **Laravel and Codeigniter 4**
 - 📫 How to reach me **aguswahyu@awd.my.id**
 - 👨‍💻 All of my projects are available at **awd.my.id**
@@ -62,9 +60,6 @@
 <p><a href="https://www.buymeacoffee.com/aguswahyu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aguswahyu" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=putuwahyu29&layout=compact&theme=dracula" alt=putuwahyu29 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=putuwahyu29&show_icons=true&locale=en&theme=dracula" alt="putuwahyu29" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=putuwahyu29&theme=dracula" alt="putuwahyu29" /></p>
 
