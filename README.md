@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on [Statistics of Jawa Timur Province](https://jatim.bps.go.id/en)
 - 🌱 I’m currently learning **DevOps & AI**
 - 💬 Ask me about **Laravel and Codeigniter 4**
-- 📫 How to reach me **aguswahyu@awd.my.id**
-- 👨‍💻 All of my projects are available at **awd.my.id**
-- 📝 I regularly write articles on **blog.awd.my.id**
-- 📄 Know about my experiences **awd.my.id/resume**
+- 📫 How to reach me **aguswahyu@officeawd.my.id**
+- 👨‍💻 All of my projects are available at **https://awd.my.id**
+- 📝 I regularly write articles on **https://blog.awd.my.id**
+- 📄 Know about my experiences **https://awd.my.id/cv.pdf**
 
 <h3 align="left">Latest Blog Posts:</h3>
 
@@ -63,16 +63,6 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=putuwahyu29&theme=dracula" alt="putuwahyu29" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">Statistics</h3>
-<a href="https://github.com/putuwahyu29">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=putuwahyu29&theme=dracula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=putuwahyu29&theme=dracula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putuwahyu29&theme=dracula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=putuwahyu29&theme=dracula" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putuwahyu29&theme=dracula" height="180em" />
-
-  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left">⚡Activity Graph</h2>
